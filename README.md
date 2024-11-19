@@ -1,0 +1,1 @@
+# Aufbau-eines-zentralisierten-Datenmanagementsystems
