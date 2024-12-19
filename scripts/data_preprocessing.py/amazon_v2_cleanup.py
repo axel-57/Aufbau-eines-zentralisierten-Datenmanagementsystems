@@ -24,7 +24,7 @@ import pyspark, logging
 from pyspark.sql import SparkSession
 
 from pyspark.sql.functions import (
-    col, when, regexp_replace, udf, to_date, lit, upper, trim
+    col, when, regexp_replace, udf, to_date, lit, upper, trim, length
 )
 from pyspark.sql.types import StringType, FloatType, IntegerType, BooleanType
 
@@ -326,7 +326,7 @@ class ETLPipeline:
         df_copy = df_copy.withColumn("Size", size_udf(col("Size")))
         return df_copy
 
-    def clean_Courier_Status(self):
+    def clean_Courier_Status_old(self):
         """
         Bereinigt und mappt die Spalte 'Courier Status' auf gültige Werte.
 
@@ -353,7 +353,7 @@ class ETLPipeline:
         df_copy = df_copy.withColumn("Courier Status", Courier_Status_udf(col("Courier Status")))
         return df_copy
 
-    def clean_Courier_Status2(self):
+    def clean_courier_status(self):
 
         # Mapping von gültigen Statuswerten:
         Courier_Status_mapping = {
@@ -364,15 +364,257 @@ class ETLPipeline:
         }
         return self.clean_field("Courier Status", "^A-Z", Courier_Status_mapping)
 
+    def clean_qty(self):
+        """
+        versucht, aus dem Feld Qty eine natürliche Zahl > 0 zu extrahieren
+        indem zuerst alle Zeichen entfernt werden, die keine Ziffern sind
+        und dann die Zahl als Integer interpretiert wird.
+        Wenn die Zahl <= 0 ist, dann wird der Datensatz entfernt
 
+        Parameters:
+        - df (DataFrame): Eingabe-DataFrame
 
+        Returns:
+        - DataFrame: Transformierter DataFrame mit gültigem Qty-Wert
+        """
 
+        # Schritt 1: Entferne alle Zeichen, die keine Ziffern sind
+        # Verwende eine reguläre Ausdrucksfunktion, um nur Ziffern zu behalten.
+        df_copy = self.df.withColumn("Qty", regexp_replace(col("Qty"), "[^0-9]", ""))
 
+        # Schritt 2: Konvertiere den bereinigten "qty_cleaned"-Wert in einen Integer
+        df_copy = df_copy.withColumn("Qty", col("Qty").cast("int"))
 
-    # TODO: Die restlichen Methoden hier einfügen
+        # Schritt 3: Lösche die Datensätze, bei denen Qty <= 0 ist
+        df_copy = df_copy.filter(col("Qty") > 0)
 
+        return df_copy
 
+    def clean_currency(self):
 
+        # Mapping von gültigen Währungen:
+        currency_mapping = {
+            "DOLLAR": "USD",
+            "$": "USD",
+            "EUR": "EUR",
+            "EURO": "EUR",
+            "€": "EUR",
+            "RUPEES": "INR",
+            "Rs": "INR",
+            "₹": "INR"
+        }
+        return self.clean_field("currency", "A-Z€₹$", currency_mapping)
+
+    def clean_amount(self):
+        """
+        Bereinigt die Spalte 'amount'.
+        Entfernt alle Zeichen, die nicht in "0123456789." enthalten sind,
+        entfernt alle Inhalte, die nicht vom Typ Float sind und
+        wandelt das Feld in Float um
+
+        Parameters:
+        - df (DataFrame): Eingabe-DataFrame
+
+        Returns:
+        - DataFrame: Transformierter DataFrame mit bereinigtem 'amount'.
+        """
+
+        # 1) Entferne alle Zeichen, die nicht in "0123456789." sind
+        df_copy = self.df.withColumn("amount_cleaned", regexp_replace(col("amount"), "[^0-9.]", ""))
+
+        # 2) Konvertiere die Spalte in den Float-Typ
+        df_copy = df_copy.withColumn("amount_float", col("amount_cleaned").cast(FloatType()))
+
+        # 3) Entferne Zeilen mit ungültigen Zahlen
+        # df_copy = df_copy.filter(col("amount_float").isNotNull())
+
+        return df_copy
+
+    def clean_ship_city(self):
+        """
+        Bereinigt die Spalte 'ship-city'.
+        Alle Zeichen außer Buchstaben und dem Leerzeichen werden entfernt.
+
+        Parameters:
+        - df (DataFrame): Eingabe-DataFrame
+
+        Returns:
+        - DataFrame: Transformierter DataFrame mit bereinigter 'ship-city'.
+        """
+
+        return self.df.withColumn("ship-city", regexp_replace(upper(col("ship-city")), "[^A-Z ]", ""))
+
+    def clean_ship_state(self):
+
+        # Mapping von gültigen State-Werten:
+        ship_state_mapping = {
+            "ANDAMANNICOBAR": "ANDAMAN & NICOBAR",
+            "ANDHRAPRADESH": "ANDHRA PRADESH",
+            "APO": "APO",
+            "AR": "AR",
+            "ARUNACHALPRADESH": "ARUNACHAL PRADESH",
+            "ASSAM": "ASSAM",
+            "BIHAR": "BIHAR",
+            "CHANDIGARH": "CHANDIGARH",
+            "CHHATTISGARH": "CHHATTISGARH",
+            "DADRAANDNAGAR": "DADRA AND NAGAR",
+            "DELHI": "DELHI",
+            "GOA": "GOA",
+            "GOLAPGONJ": "GOLAPGONJ",
+            "GUJARAT": "GUJARAT",
+            "GURUVAYOOR": "GURUVAYOOR",
+            "HARYANA": "HARYANA",
+            "HIMACHALPRADESH": "HIMACHAL PRADESH",
+            "JAMMUKASHMIR": "JAMMU & KASHMIR",
+            "JHARKHAND": "JHARKHAND",
+            "KARNATAKA": "KARNATAKA",
+            "KERALA": "KERALA",
+            "LADAKH": "LADAKH",
+            "LAKSHADWEEP": "LAKSHADWEEP",
+            "MADHYAPRADESH": "MADHYA PRADESH",
+            "MAHARASHTRA": "MAHARASHTRA",
+            "MAHESHPURPRIMARYSCHOOL": "MAHESHPUR PRIMARY SCHOOL",
+            "MANIPUR": "MANIPUR",
+            "MEGHALAYA": "MEGHALAYA",
+            "MIZORAM": "MIZORAM",
+            "NAGALAND": "NAGALAND",
+            "NEWDELHI": "NEW DELHI",
+            "NL": "NL",
+            "ODISHA": "ODISHA",
+            "ORISSA": "ORISSA",
+            "PB": "PB",
+            "PONDICHERRY": "PONDICHERRY",
+            "PRATAPGARH": "PRATAPGARH",
+            "PUDUCHERRY": "PUDUCHERRY",
+            "PUNJAB": "PUNJAB",
+            "PUNJABMOHALIZIRAKPUR": "PUNJAB/MOHALI/ZIRAKPUR",
+            "RAJASTHAN": "RAJASTHAN",
+            "RAJSHTHAN": "RAJSHTHAN",
+            "RAJSTHAN": "RAJSTHAN",
+            "RJ": "RJ",
+            "SIKKIM": "SIKKIM",
+            "TAMILNADU": "TAMIL NADU",
+            "TELANGANA": "TELANGANA",
+            "TRIPURA": "TRIPURA",
+            "UTTARPRADESH": "UTTAR PRADESH",
+            "UTTARAKHAND": "UTTARAKHAND",
+            "WESTBENGAL": "WEST BENGAL"
+        }
+        return self.clean_field("ship-state", "^A-Z", ship_state_mapping)
+
+    def clean_ship_postal_code(self):
+        """
+        Bereinigt die Spalte 'ship-postal-code'.
+
+        Parameters:
+        - df (DataFrame): Eingabe-DataFrame
+
+        Returns:
+        - DataFrame: Transformierter DataFrame mit bereinigtem 'ship-postal-code'.
+        """
+
+        return self.df.withColumn("ship-postal-code",
+            when(length(col("ship-postal-code")) == 6, col("ship-postal-code")).otherwise("")
+)
+        return df_copy
+
+    def clean_ship_country(self):
+
+        # Mapping von gültigen ship-country Werten:
+        ship_country_mapping = {
+            "IN": "IN"
+        }
+        return self.clean_field("ship-country", "^A-Z", ship_country_mapping)
+
+    def clean_b2b(self):
+
+        # Mapping von gültigen B2B-Werten:
+        B2B_mapping = {
+            "TRUE": "TRUE",
+            "FALSE": "FALSE"
+        }
+        return self.clean_field("B2B", "^A-Z", B2B_mapping)
+
+    def clean_fulfilled_by(self):
+
+        # Mapping von gültigen B2B-Werten:
+        fulfilled_by_mapping = {
+            "EASYSHIP": "Easy Ship"
+        }
+        return self.clean_field("fulfilled-by", "^A-Z", fulfilled_by_mapping)
+
+    def clean_New(self):
+        """
+        Bereinigt die Spalte 'New'.
+        Dieses Feld/diese Spalte ist im Original immer leer,
+        daher wird sie hier vollständig gelöscht.
+
+        Parameters:
+        - df (DataFrame): Eingabe-DataFrame
+
+        Returns:
+        - DataFrame: Transformierter DataFrame mit leerem Feld 'New'.
+        """
+
+        # Das Feld 'New' wird vollständig mit dem Literal "" gefüllt
+        return self.df.withColumn("New", lit(""))
+
+    def clean_PendingS(self):
+        """
+        Bereinigt die Spalte 'PendingS'.
+        Dieses Feld/diese Spalte ist im Original immer leer,
+        daher wird sie hier vollständig gelöscht.
+
+        Parameters:
+        - df (DataFrame): Eingabe-DataFrame
+
+        Returns:
+        - DataFrame: Transformierter DataFrame mit leerem Feld 'PendingS'.
+        """
+
+        # Das Feld 'PendingS' wird vollständig mit dem Literal "" gefüllt
+        return self.df.withColumn("PendingS", lit("") )
+
+    def clean_delivery_address(self):
+        """
+        Bereinigt die Spalte 'Delivery_Address'.
+
+        Parameters:
+        - df (DataFrame): Eingabe-DataFrame
+
+        Returns:
+        - DataFrame: Transformierter DataFrame mit bereinigtem 'Delivery_Address'.
+        """
+        return self.df.withColumn("Delivery_Address", regexp_replace(upper(col("Delivery_Address")), "[^A-Z0-9 -]", ""))
+
+    def clean_customer_name(self):
+        """
+        Bereinigt die Spalte 'Customer_Name'.
+
+        Parameters:
+        - df (DataFrame): Eingabe-DataFrame
+
+        Returns:
+        - DataFrame: Transformierter DataFrame mit bereinigtem 'Customer_Name'.
+        """
+        return self.df.withColumn("Customer_Name", regexp_replace(upper(col("Customer_Name")), "[^A-Z0-9 -]", ""))
+
+    def clean_phone_number(self):
+        """
+        Bereinigt die Spalte 'Phone_Number'.
+
+        Parameters:
+        - df (DataFrame): Eingabe-DataFrame
+
+        Returns:
+        - DataFrame: Transformierter DataFrame mit bereinigtem 'Phone_Number'.
+        """
+
+        df_copy = self.df.withColumn("Phone_Number", regexp_replace(col("Phone_Number"), "[^0-9]", ""))
+
+        df_copy = df_copy.withColumn("Phone_Number", when(length(col("Phone_Number")) >= 7, col("Phone_Number")).otherwise(""))
+
+        return df_copy
 
     def save_data(self):
         """Speichert die transformierten Daten."""
@@ -399,16 +641,21 @@ class ETLPipeline:
         self.df = self.clean_ship_service_level()
         self.df = self.clean_category()
         self.df = self.clean_size()
-
-        # self.df = self.clean_Courier_Status()
-
-        self.df = self.clean_Courier_Status2()
-
-
-
-        # TODO: Den restlichen Code hier einfügen
-
-
+        self.df = self.clean_courier_status()
+        self.df = self.clean_qty()
+        self.df = self.clean_currency()
+        self.df = self.clean_amount()
+        self.df = self.clean_ship_city()
+        self.df = self.clean_ship_state()
+        self.df = self.clean_ship_postal_code()
+        self.df = self.clean_ship_country()
+        self.df = self.clean_b2b()
+        self.df = self.clean_fulfilled_by()
+        self.df = self.clean_New()
+        self.df = self.clean_PendingS()
+        self.df = self.clean_delivery_address()
+        self.df = self.clean_customer_name()
+        self.df = self.clean_phone_number()
 
         self.save_data()
         logging.info("ETL-Pipeline erfolgreich abgeschlossen.")
@@ -456,3 +703,52 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""# Test"""
+
+tabelle = []
+
+status_mapping = {
+    "CANCELLED": "Cancelled",
+    "SHIPPEDDELIVEREDTOBUYER": "Shipped - Delivered to Buyer",
+    "SHIPPED": "Shipped",
+    "SHIPPEDRETURNEDTOSELLER": "Shipped - Returned to Seller",
+    "SHIPPEDREJECTEDBYBUYER": "Shipped - Rejected by Buyer",
+    "SHIPPEDLOSTINTRANSIT": "Shipped - Lost in Transit",
+    "SHIPPEDOUTFORDELIVERY": "Shipped - Out for Delivery",
+    "SHIPPEDRETURNINGTOSELLER": "Shipped - Returning to Seller",
+    "SHIPPEDPICKEDUP": "Shipped - Picked Up",
+    "PENDING": "Pending",
+    "PENDINGWAITINGFORPICKUP": "Pending - Waiting for Pick Up",
+    "SHIPPEDDAMAGED": "Shipped - Damaged",
+    "SHIPPING": "Shipping"
+}
+tabelle.append({"fieldname" : "Status", "regex_string": "^A-Z", "field_mapping": status_mapping})
+
+category_mapping = {
+    "TSHIRT": "T-shirt",
+    "SHIRT": "Shirt",
+    "BLAZZER": "Blazzer",
+    "TROUSERS": "Trousers",
+    "PERFUME": "Perfume",
+    "SOCKS": "Socks",
+    "SHOES": "Shoes",
+    "WALLET": "Wallet",
+    "WATCH": "Watch"
+}
+tabelle.append({"fieldname" : "Category", "regex_string": "^A-Z", "field_mapping": category_mapping})
+
+for t in tabelle:
+    print("----------------------------------------")
+    print(t["fieldname"])
+    print(t["regex_string"])
+    print("")
+
+    print("####")
+    print(t["field_mapping"])
+    print("####")
+
+    for f in t["field_mapping"]:
+        print(t["field_mapping"][f])
+
+print("----------------------------------------")
