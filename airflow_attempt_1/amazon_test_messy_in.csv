@@ -1,0 +1,408 @@
+index,Order ID,Date,Status,Fulfilment,Sales Channel,ship-service-level,Category,Size,Courier Status,Qty,currency,Amount,ship-city,ship-state,ship-postal-code,ship-country,B2B,fulfilled-by,New,PendingS,Delivery_Address,Customer_Name,Phone_Number
+0,405-8078784-5731545,2022-04-30,cancelled,Merchant,Amazon.in,Standard,T-shirt,S, On the Way   ,0,Rs,647.62,MUMBAI,MAHARASHTRA,400081.0,IN,False,Easy Ship,,,"   0474 Willie LOop
+Sherylshire, NV 47523  ",Jacob Mendez,486.487.5625
+1,171-9198151-1101146,04/30/2022,Delivered,Merchant,Amazon.in,Standard,  Shirt ,3XL,SHIPPED,1,dollar,406.0,BENGALURU,  KARNATAKA   ,560085.0,IN,False,Easy Ship,,,"5339 avery hill apt. 093
+sheilashire, mt 77152",Dalton Wong,9908046404
+,404-0687676$-727314,2022-04-30,SHIPPED,Amazon,Amazon.in,Expedited,Shirt,XL,Shipped,1,,329.0,NAVI MUMBAI,MAHARASHTRA,410210.0,IN,True,,,,"2930 Terri Courts Suite 658
+Erinchester, MN 64835",REBECCA SULLIVAN,651-306-8779
+3,403-9615377-8133951,04/30/2022,Cancelled,Merchant,Amazon.in,Standard,B@lazzer,L,on the way,0,dollar,753.33,PUDUCHERRY,NULL,605008.0,IN,False,Easy Ship,,,"3324 HoustOn Pass
+Hendersonmouth, TN 66387",Frances Zhang,480.885.1561
+4,407-1069790-7240320,04/30/2022,Shipped,  Amazon ,Amazon.in,Expedited,Trousers,3XL,Shipped,1,euro,NULL,CHENNAI,TAMIL NADU,600073.0,IN,False,,,,"31145 Matthew Loaf Suite 832
+West Angela, OR 40712",Brianna hernandez,+1-508-451-0171x7851
+5,404-1490984-4578765,   04/30/2022   ,Shipped,Amazon,Amazon.in, Expedited  ,T-shirt,XL,shipped,1,₹,NONE,GHAZIABAD,UTTAR PRADESH,201102.0,IN,False,,,,"0961 Wright Isle Suite 078
+Port Katelynburgh, VI 62193",Robert Ryan DVM,+1-826-918-2747
+6,408-5748499-6859555,30-04-2022,SHIPPED,Amazon,Amazon.in,Expedited,T-shirt,L,   h83zbA9  ,NULL,EURO,653,CHANDIGARH,CHANDIGARH,160036.0,IN,False,,,,"4988 Perez Valleys
+Hansonton, HI ", Sandra Moran ,620-273-3784
+7, 406-7807733-3785945  ,04/30/2022,Delivered,Merchant,Amazon.in,Standard,Shirt,   S ,shipped,1,₹,399,HYDERABAD,TELANGANA,500032.0,INbhyz,False,Easu Ship,,,"78528 Levi Underpass
+Danielton, TX 42471",Abigail Macdonald,747-750-9696x3161
+8,407-5443024-5233168,30-04-2022,cancelled,Amazon,AMAZON.IN,   EXPEDITED  ,   T-shirt ,3XL,CANCELLED,0,euro,nan,HYDERABAD,TELANGANA,500008.0,IN,False,,,,"8450 jessica manor apt. 755
+yatesmouth, mo 92689",Elizabeth Davis,001-805-533-5266x588
+9,402-4393761-0311520,30-04-2022,SHIPPED,Amazon,Amazo,Expedited,Shirt,XXL,Shipped,1,₹,363.0,Chennai,TAMIL NADU,600041.0,IN,False,,,,Mux076ewcpsW4x8MMnrMjXCjlWaDUlcH3aQ4F6AyxDdUTRh9S,Rita Faulkner,  001-363-664-7124 
+10,407-5633625-6970741,202,SHIPPED,Amazon,Amazon.in,  Expedited  ,Shirt,S,Shipped,1,DOLLAR,685,chennai,8qBknWiaLz,600073.0,INzsvk,False,,,,"171 Wilson Ways
+Lake Linda, MI 00950",alice proctor, 001-856-778-2366x7666 
+11,171-4638481-6326716,30-04-2022,Shipped,Amazon,Amazon.in,Expedited,Shirt,XS,shipped,1,DOLLAR,364,NOIDA,UTTAR PRADESH,201303.0,IN,False,,,,"77600 Hall Mdnor Apt. 483
+North Staceyton, AL 65149",Paul Diaz,2004926493
+12,405-5513694-8146768,04/30/2022,Shipped - Delivered to Buyer,Merchant,  Amazon.in ,Standard,Shirt,XS,Shipped,1,EURO,399.0,Amravati.,MAHARASHTRA,444606.0,in,False,Easy Ship,,,"383 Martinez Radial Apt. 571
+North Rebeccafurt, MS 75184",Kimberly Smith,(956)498-8873
+13,408-7955685-3083534,04/30/2022,SHIPPED,Amazon, Amazon.in   ,Expedited,T-shirt,XS,Shipped,1,--,skRAc,MUMBAI,MAHARASHTRA,400053.0,IN,False,,,,"131 William WayspApt. 277
+East Jennifer, NM 78706",Karen Hanson,001-955-514-8258x072
+14,408-1298370-1920302,04/30/2022,delivered,Merchant,amazon.in,standard,t-shirt,L,,1,EURO,771,MUMBAI,MAHARASHTRA,400053.0,IN,False,Easy Ship,,,"32198 Christina Drive SUite 512
+Thompsonborough, PW 36767",DEBORAH ALLISON,(631)817-5005
+15,403-4965581-9520319,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Shirt,6XL,shipped,1,₹,544,GUNTAKAL,ANDHRA PRADESH,515801.0,IN,False,Easy Ship,,,"23258 WilliAm WalksbApt. 476
+Carlborough, IN 79914",Richard Espinoza,001-891-344-6534x098
+16,406-9379318-6555504,04/30/2022,SHIPPED,Amazon,Amazon.in,Expedited,Shirt,XXL,shipped,1,euro,329,  JAIPUR ,RAJASTHAN,302020.0,IN,False,,,,"23428 Barrett Center Apt. 246
+Ruizville, IA 83389",Kristine Barron,661.585.7129x63379
+17,405-9013803-8009918,04/30/2022,shipped,Amazon,Amazon.in,Expedited,Shirt,XL,shippe#d,1,€,399.0,NEW DELHI,)DELHI,110074.0,IN,False,,,,"32216 Jones ThroughWay
+Harrisfurt, MO 84735",CHRISTOPHER MARTINEZ,516.831.9752
+18,402-4030358-5835511,30-04-2022,Shipped - Delivered to Buyer,Mer*chant,Amazon.in,Standard,Shirt,XXL,SHIPPED,1,,458.0,Gurgaon,HARYANA,122004.0,IN,False,Easy Ship,,,"906 erica expressway
+north paul, fl 24419",Sandra Leon,6476326804
+19,405-5957858-1051546, 2022-04-30  ,SHIPPED, Amazon ,Amazon.in,Expedited,t-shirt,--,Shipped,1,Dollar,886,BENGALURU,KARNATAKA,560017.0,IN,False,,,,"Unit 1011 Box 1405
+DPO AP 27685",Pamela Wilson,+1-249-850-9835x8381
+20,405-0607769-0716360,30-04-2022,SHIPPED,AMAZON,Amazon.in,Expedited,Shirt,3XL,shipped,1,INR,517.0,TIRUCHIRAPPALLI,TAMIL NADU,620018.0,IN,False,,,,"4540 CRystal Ville ApT. 677
+Taraberg, OK 42852",Mark Knight,232-827-2597x11132
+21,404-8494550-5860325,2022-04-30,shipped,Amazon,Amazon.in,Expedwted,t-shirt,M,SHIPPED,,Dollar,666.0,BENGALURU,KARNATAKA,560040.0,INsj,False,,,,"293 Amy Manor
+Lake Melissa, ID 54329",Kelly Hogan,(463)382-2438x87589
+22,171-1305077-2813934,2022-04-30,Shipped,amazon,Amazon.in,Expedited,Shirt,L,SHIyPED,1,,376,HYDERABAD,TELANGANA,500072.0,IN,False,,,,"40082 Young Ramp Apt. 860
+Lake Gerald, IN 24592",John Brown,(574)715-1240
+23,404-6019946-2909948,30-04-2022,cancelled,Merchant,Amazon.in,Standard,  T-shirt ,M,On the Way,0,$,570.48,pune,MAHARASHTRA,411044.0,cN,False,Easy Ship,,,"7436 Smith Shoals Suite 933
+Steelefurt, MH 09398",Jeffery Rodriguez,7234610067
+24,402-3384087-4005164,04/30/2022,Shipped,Amazon,Amazon.in,Expedited,Shirt,L,shipped,1,euro,499.0,TEZPUR,ASSAM,784001.0,IN,False,,,,"20024 Rdchard Flat
+Boothton, MS 62438",Jennifer Cummings,300.822.8383
+25,o2u5vZs9ZLXPxgTuESh,2022-04-30,delivered,Merchant,  Amazon.in ,Standard,t-shirt,XS,shipped,1,Dollar,582w,RANCHI,JHARKHAND,834002.0,IN,False,Easy Ship,,,"332 Marcus Canyon Suite 960
+Lisachester, ID 94012",Greg Wade,001-545-229-2553x2424
+26,403-9230474-9657916,04/30/2022,delivered,Merchant,Amazon.in,Standard,   Shirt   ,3XL,SHIPPED,1,i288,299,BILASPUR,CHHATTISGARH,495001.0,IN,False, Easy Ship  ,,,"  1194 Christie Gardens
+South Shanebury, SD 68946  ",   Michael Huff ,001-859-665-8159
+27,408-3484251-6901959,30-04-2022,shipped,Amazon,Amazon.in,Expedited,Shirt,None,shipped,1,USD,459,   PU,MAHARASHTRA,411052.0,IN,False,,,,"Unit 7569 Box 5203
+DPO AA 70836",Tami White,   +1-980-921-6766   
+28,405-7755803-4729935,04/30/2022,Shipped,,Amazon.in,Expedited,Shirt,M,Shipped,1,euro,399.0,BENGALURU,KARNATAKA,560037.0,IN,False,,,,"6052 Hurley Neck
+Lake JesSica, WV 40790",Derrick Murray,001-612-575-1146x1300
+29,404-5933402-8801952,04/30/2022,Cancelled,Merchant,   Amazon.in   ,Standard,Shirt,3XL,uMG2XvxOAa,0,None,nan,GUWAHATI,ASSAM,781003.0,IN,False,cfrZADh7g,,,"2735 Kaiher Mall
+South Kimberly, VA 20630",Jessica Martin,+1-631-658-2863x25441
+30,171-9040274-9291563,2022-04-30,Shipped,Amazon,  Amazon.in ,Expedited,Blazzer,S,Shipped,1,USD,791,THIRUVARUR,T!AMIL NADU,613704.0,X4,False,,,,"33586 Christie GardeN
+Marystad, GA e6181",Kristine NguyeN,255.337.2402
+31,403-7056319-0979561,2022-04-30,shipped,Amazon,@a,Expedited,Shirt,XL,SHIPPED,1,DOLLAR,499,LUCKNOW,UTTAR PRADESH,226010.0,IN,False,,,,"02209 Guzman Course Suite 663
+New Julie, DC 15592",Lance Wklson,(546)803-2080x541
+32,404-9632124-1107550,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,T-shirt,M,SHIPPED,1,INR,1233.0,VISAKHAPATNAM,ANDHRA PRADESH,530016.0,hN,False,Easy Ship,,,"300 Donna Passage
+Johnsonburgh, SC 61042",NONE,(844)853-0585x60007
+33,402-1465437-0579556,04/30/2022,delivered,Merchant,Amazon.in,NONE,SHIRT,M,nKs6CrF,1,E^URO,517,JEYPUR,ODISHA,764001.0,IN,False,E#asy Ship,,,"973 Brown Club
+Leonmouth, SD 66476",Erik Yang,+1-778-998-4447x470
+34,404-7774085-3780319,30-04-2022,shipped,Amazon,Amazon.in,Expedited,Shirt,   XL   ,SHIPPED,1,Rs,376msmqv,HYDERABAD,TELANGANA,500028.0,IN,False,,,,"76750 STevenson Points
+Michaeltown, SC 83777",AWNETTE CARTER,394-275-6231x87739
+35,402-2764952-1492318,2022-04-30,Delivered,Merchant,Amazon.in,Standard,Shir&t,XL,shipphd,,$,499,LUCKNOW,UTTAR PRADESH,226016.0,IN,False,Easy Ship,,NONE,"uss chandler
+fpo ae 84811",Paula Parker,311-335-4196x1579
+NULL,  406-027220%0-7784379 ,30-04-2022,SHIPPED,Amazon,Amazon.in,Expeditod,T-shirt,L,shipped,1,EURO,666.0,CHENNAI,tamil nadu,600033.0,IN,False,,,,"530 Kimberly Highway Apt. 204
+Dickersonchester, PW 61606",NONE,905.789.3491x4673
+37,403-4367956-2849158,04/30/2022,SHIPPED,Amazon,Amazon.in,Expedited,   Shirt  ,S,shipped,1,   rupees ,487.0,NEW DELHI,DELHI,110092.0,IN,False,,,,"9138 Karen Street Suite 791
+Lake Johnstad, ID 12524",James Nash,361.689.7189x142
+38,403-4367956-2849158,2022-04-30,shipped,Amazon,Amazon.in,Expedited,Shirt,S,SHIPPED,1,Rs,  368   ,NEW DELHI,DELHI,NONE,IN,False,,,,"589 Meghan Village Suite 435
+Lake Meganville, ID 31167",Miguel Stone,+1-609-659-5399x627
+39,403-4242957-8599555,30-04-2022,Shipped,Amazon,Ama,Expedited,Shirt,L,shipped,1,rupees,399.0, THIRUVANANTHAPURAM   ,KERALA,695011.0,IN,False,,,,"375 Kyle Estate Suite 714
+Muellerborough, VI 20117",Jeffery Mckinney,(942)637-1568x52937
+40,408-7165704-5643524,04/30/2022,shipped,Amazon,Amazon.in,Expedited,Perfume,Free,SHIPPED,1,Dollar,699,GREATER NOIDA,UTTAR PRADESH,201306.0,IN,False,,,,"23302 Ashley Pine Apt. 906
+Murphyshire, TN 42184", Lauren Ponce  ,6683851833
+41,402-8210765-3935569,04/30/2022,shipped,Amazon,Amazon.in,Expedited,Blazzer,3XL,shipped,1,₹,885,JABALPUR,MADHYA PRADESH,482002.0,IN,False,,,,"4727 Johnson Extensions
+West NIcholeland, MT 21556",Benjamin Price,558-914-8434x792
+42,406-7398201-3869d14,  2022-04-30  ,Delivered,Merchant,Amazon.in,Standard,Shirt,M,shipped,1,€,424,MUMBAI,MAHARASHTRA,400092.0,IN,False,easy ship,,,"Unit 1706 Box 7992
+DPO AE 55190",kathleen shelton,6543531254
+43,408-3478480-0881162,30-04-2022,Shipped,Amazon,  Amazon.in   ,   Expedited  ,T-shirt,Mobdg,  shipped ,1,INR,1126.0,LUCKNOW,UTTAR PRADESH,226017.0,IN,False,,,,"25993 Hernandez Ridge Suite 463
+South Deborahfurt, WY 10729",Samantha Tran,001-698-984-6634x78035
+44,402-7595162-9129931,30-04-2022,shipped,Am,Amazon.in,Expedited,T-shirt,L,shipped,1,USD,788.0,MUMBAI,MAHARASHTRA,400076.0,IN,False,,,,"360 Martin Wells
+larcusmouth, MA 47695",Madeline Watkins,001-514-403-6232x137
+45,171-6876154-6233146,30-04-2022,shipped,Amazon,Amazon.in,Expedited,T-shirt,S,shipped,1,€,759.0,KOLKATA,WEST BENGAL,700014.0,IN,False,,,,"5460 Lisa Overpaos
+Nlw Jasmive, WA 85041",lisa nelson,(839)855-6620
+46,408-3917043-5314763,04/30/2022,shipped,Am#azon,Amazon.in,Expedited,T-shirt,L,Shipped,1,USD,1146.0,ONGOLE,ANDHRA PRADESH,523001.0,IN,False,,,,"01989 mark alley apt. 265
+port crystalborough, id 40020",Amy K#eller,(263)645-4428x0550
+47,408-9281152-6213100,04/30/2022,Shipped,Amazon,Amazon.in,Expedited,Trousers,S,shipped,,$,665,SECUNDERABAD,TELANGANA,500017.0,IN,False,,,,"4715 Ryan Drives
+Millershire, ND 02942",Brian Johnson,439-893-1462
+48,403-3496411-3082707,2022-04-30,shipped,Amazon,Amazon.in,Expedited,Shirt,S,shipped,1,INR,429.0,HYDERABAD,TELANGA,500062.0,IN,False,,,,"0163 casey light apt. 446
+jennyburgh, wi 39504",Matthew Sheppard,+1-485-909-6468x28060
+49,171-9208368-0157156,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Shirt,M,shipped,1,DOLLAR,399,KEWALPUR,UTTAR PRADESH,271881.0,in,False,Easy Ship,,,"9159 Rebecca Prairie Suite 968
+Halestad, MA 52741",RYAN HURLEY,001-710-805-8749x74147
+50,408-2137113-0982751,  04/30/2022  ,shipped,Amazon,Amazon.in,Expedited,T-shirt,S,SHIPPED,1,INR,FuKUJ,CUTTACK,ODISHA,753012.0,IN,False,,,,"56359 EDWARD FALL SUITE 778
+PORT BROOKEBOROUGH, NY 70457",Shamnon Mcfarland,(205)899-3385
+51,402-3628566-9688333,0,SHIPPED,Amazon,TVA8XN5XJ,  Expedited  ,T-shirt,M,shipped,1,₹,  654.0   ,BADLAPU,maharashtra,421503.0,IN,False,,,,"6241 Lowe Wells
+New Selena, DC 05224",Marcus Gray,5993253459
+52,408-7138000-9728362,30-04-2022,SHIPPED,6RO0wk,Am,Expedited,T-shirt,M,Shipped,1,Dollar,1033,dimapur,ChSnhWzd,797112.0,IN,False,NONE,,,"38250 Kennedy Ports
+Brandonfurt, ME 59162",Nicole Reid,--
+53,402-1752649-2274748,04/30/2,Shipped,   Amazon ,Amazon.in,Expedited, Shirt   ,XL, shipped ,1,euro,390,BENGALURU,7fOGZZdKe,560047.0,IN,False,,,,"unit 4542 box 8727
+dpo aa 62583",Katrina Landry,800.508.0233x31393
+54,402-7944191-1869101,   2022-04-30 ,SHIPPED,Amazon,KiSvkBNy8,Expedited,Trousers,L,shipped,1,Rs,493,BENGALURU,KARNATAKA,560076.0,IN,False,,,,"518qMoore Walks
+Michaeltown, MS 93578",Brandon Conrad,817-255-5593
+55,407-4063876-9566742,2022-04-30,SHIP,Amazon,Amazon.in,Expedited,Blazzer,S,   Shipped  ,1,₹,721.0,WARANGAL,TELAN$GANA,506001.0,IN,False,,,,"4862 Eric Garden
+Port Frankborough, DE 16001",Terry Gentry,+1-276-244-5306
+56,403-0752752-4656334,30-04-2022,SHIPPED,Amazon,Amazon.in,   Expedited   ,T-shirt, XS ,Shipped,1,DOLLAR,597,DHAULPUR,RAJASTHAN,328024.0,IN,False,,,,"12297 Foster Lock
+Christon, NM 46031",John Rodgers,001-269-421-1952x2445
+57,406-8879861-2081117,2022-04-30,shipped,Amazon,Amazon.in,Expedited,Shirt,L,Shipped,1,rupees,399.0,GUWAHATI,ASSAM,NONE,  IN   ,False,,,,"PSC 2413, Box 5223
+APO AA 64588",Lucas Smith,641-527-8074x63864
+58,406-8089333-7941903,30-04-2022,Shipped,Amazon,Amazon.in,Expedited,T-shirt,S,sh*ipped,1,₹,888,Bengaluru,KARNATAKA,560103.0,IN,False,,,,"unit 1502 box 7421
+dpo ap 28207",Robert Miller,511.972.5563X803
+59,  1@71-3072652-6805159  ,04/30/2022,Shipped,Amazon,Amazon.in,Expedited,Shirt,XXL,SHIPPED,1,DOLLAR,353,HYDERABAD,TELANGANA,500072.0,IN,False,,,,"063 Ward Rue Apt. 914
+Amandaview, VI 3535c",Justin Massey,001-542-860-0662
+60,171-2592464-6846743,30-04-2022,Delivered,Merchant,Amazon.in,Standard,T-SHIRT,XL,SHIPPED,1,,599.0,BENGALURU,KARNATAKA,560023.0,IN,False,   Easy Ship  ,,,"21065 Melissa Summit
+Lisastad, RI 00669",Kristin Reed,(327)431-9031x967
+61,404-2262140-4696366,30-04-2022,SHIPPED,Amazon,Amazon.in,   Expedited ,Shirt,  M   ,shipped,1,euro,518,NAGPUR,MAHARASHTRA,440022.0,IN,False,,,,"Unit 3036 Box 1468
+DPO AA 89809",Jeremy Jefferson,549.589.5510
+62, 404-2262140-4696366   ,30-04-2022,shipped,Amazon,   Amazon.in ,Expedited,Shirt,M,SHIPPED,1,rupees,295.0,NAGPUR,MAHARASHTRA,440022.0,IN,False,,,,0758 Reilly Meadows Suite ,Ad%am Thompson,
+63,405-3594372-1614709,2022-04-30,   shipped  ,Amazon,Amazon.in,Expedited,T-shirt,XS,shipped,1,$,852.0,GREATER NOIDA,UTTAR PRADESH,201306.0,IN,--,,,,"   407 Rachel Stravenue
+Sarahbury, MT 53378   ",Anthony Bridges,922.293.8218x037
+64, 407-2974257-4781134   ,04/30/2022,  Shipped   ,Amazon,Amazon.in,Expedited,T-shirt,M,Shipped,1,Rs,824.0,THANE,!MAHARASHTRA,400607.0,IN,False,,,,"064 Amy Gardens
+Port David, AS 27909",James ChuRch,955.770.8371x3007
+65,171-4137548-0481151,2022-04-30,CANCELLED,cmazon,AMAZON.IN,Expedited,Shirt,XXL,cancelled,0,Dollar,nan,Dahod,Gujarat,389151.0,IN,False,,,,"6348 alison corner suite 826
+lake franciston, al 64299",Whitney Reid, 864.673.1610x8566   
+66,405-4461562-9113959,04/30/20@22,Shipped,Amazon,Amazo(n.in,Expedited,T-shirt,XXL,shipped,1,€,909.0,RANCHI,JHARKH,834004.0,IN,False,,,,"uscgc gardner
+fpo ae 54736",Meljssa Shah,(439)337-6685x329
+67,404-4535078-5241919,   2022-04-30   ,shipped,Amazon,Amazon.in,Expedited,Trousers,L,SHIPPED,1,$,432,PUNE,MAHARASHTRA,411014.0,IN,False,,,,"Unit 8656 Box 7795
+DPO AA 68663",John Levy,644-775-6643
+68,405-8387725-2971512,2022-04-30,shipped,Amazon,Amazon.in,Expedited,T-shirt,L,SHIPPED,1,$,545.0,ZDa30pLW4,KARNATAKA,560040.0,IN,False,,,,"51764 Sherry V&ille Apt. 399
+Randyfurt, WV 04274",Stephanie Malone,+1-831-526-2081
+69,405-6480932-8759528,30-04-!2022,Shipped,Amazon,Amazon.in,Expedited,T-shirt,3XL,SHIPPED,1,euro,11a6,VIJAPURA,KARNATAKA,586201.0,IN,False,,,,"psc 0390, box 6067
+apo ap 81527",Edwin Jordan,951.605.3942x592
+70,405-9966506-3155561,04/30/2022,Shipped - Delivered to Buyer,Merchant,Amazon.in,S&tandard,Shirt,XL,shipped,1,USD,696,CHENNAI,TAMIL NADU,600041.0,IN,False,Easy Ship,,,"943 A(ndrew Rue
+Lake Alexander, FM 97411",jeffrey vega,+1-59&5-771-7919
+71,408-7029737-8028367,2022-04-30,Shipped,Amazon,Amazon,Expedited,Shirt,M,SHIPPED,1,EURO,432.0,MUMwAI,MAHARASHTRA,400080.0,IN,False,,,,"448 Stanton Street
+South Sherry, SC 94386",Blake ,  853-669-0557   
+72,407-2189901-7515567,04/30/2022,delivered,Merchant,Amazon.in,Standard,T-shirt,s,SHIPPED,1,   Euro  ,631.0,bangalore,KARNATAKA,560001.0,IN,False,Easy Ship,,,"75066 Kara Causeway
+East Stephen, UT 06249",Jessica Harris,001-737-215-2191
+73,402-2105657-2899562,30-04-2022,Shipped,Amazon,Amazon.in,Expedited,shirt,XXL,shipped,1,$,316, B$ENGALURU  ,KARNATAKA,560098.0,IN,False,,,," 976 Ho Shore
+South Louisstad, LA 51937   ", Kimberly Kidd   ,509-980-9031x013
+74,406-1326801-8886709,--,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Shirt,XL,shipped,1,Rsf,362.0,BERHAMPUR,ODISHA,760002.0,IN,False,Easy Ship,,,"Unit 3282 Box 7428
+DPO AP 14333",Robert Johnson,001-351-514-0809x9858
+75,408-7760667-5809130,30-04-2022,shipped,Amazon,Amazon.in,Expedited,Shirt,L,SHIPPED,1,Dollar,329,HYDERABAD,None,500085.0,  IN  ,False,,,,"012 Mason Drive Suite 270
+Gonzalezside, PW 40519",Ta,4995991289
+76,405-8457623-9269955,2022-04-30,Shipped,AMAZON,  Amazon.in   ,Exped,Shirt,XXL,SHIPPED,1,INR,399,PUNE,MAHARASHTRA,411045.0,IN,False,,,,"3782 Ramirez Parkways
+North Amy, OR 03941",Nicole MckAy,609.868.0588x0577
+77,bvjQEoEhnLyKbQO7kmM,04/30/2022,Shipped,Amazon,Amazon.in,Expedited,T-shirt,3XL,SHIPPED,1, $   ,751.0,TEZPUR,ASSAM,784001.0,IN,False,None,,,"11672 Fernandez Vill)age Suite 750
+West Bryan, AK 94352",Bianca Martin,001-829-790-6221x919
+78,403-6190683-2687538,2022-04-30,SHIPPED,Amazon,AMAZON.IN,Expedited,,XL,  Shipped   ,1,Rs,791,HIMMATNAGAR,Gujarat,383001.0,IN,False,,,,"7502 Dennis Parkways
+Port Christinashire,dTX 83115",Stephanie Powers,001-353-208-0742x30921
+79,408-4069830-3819562,2022-04-30,SHIPPED,Amazon,Amazon.in,Expedited,T-shirt,3XL,Shipped,1,EURO,684.0,Kolkata,WEST BENGAL,700048.0,IN,False,,,,"7060 Coleman Passage
+Cherylstad, OR 57852",Ma%rk Moore,360.798.8335
+80,408-4069830-38195,30-04-2022,shipped,Amazon,Amazon.ie,expedited,T-shirt,3XL,SHIPPED,1, Dollar ,1281.0,Kolkata,WEST BENGAL,700048.0,IN,False,,,,"912 PENNY WALL
+PORT TANYA, WV 38077",Kyle Makquez,927-529-7396
+81,408-4069830-3819562,04/30/2022,SHIPPED,Amazon,Amazon.in,Expedited,--,3XL, Shipped ,1,DOLLAR,1186,Kolkata,WEST BENGAL,700048.0,IN,False,,,,"01092 Brown tstates Suite 652
+Matthewhaven, AK 13742",carl brown,(574)964-7585x865
+82,171-7367545-7081126,04/30/2022,Shipped,Amazon,Amazon.in,Ygx93JvyJ,Shirt,XXL,Shipped,1,Rs,499,HYDERiBAD,TELANGANA,502032.0,IN,False,,,,"6857 Michael Fort
+Gutierrezberg, ID 33735",Garrett Roberson,--
+83,404-6522553-9345930,30-04-2022,  CANCELLED   ,Merchant,Amazon.in,Standard,T-shirt,M,On the Way,0,NONE,1105,DEHRADUN,UTTARAKHAND,248001.0,IN,False,Easy Ship,,,"0540 Estrada Estate Suite 750
+East Mark, CT 38002",CHARLES RAY,9192648019
+84,   403-9950518-0349133   ,2022-04-30,cancelled,Amazon,Amazon.in,EXPEDITED,Shirt,M,CANCELLED,0,₹, nan  ,HYD#ERABAD,TELANGANA,500072.0,IN,False,,,,"20314 Douglas Mountains Apt. 014
+Loweside, AS 57778",Misty Mcdhniel,001-828-599-9686
+NULL,407-6599093-6553153,2022-04-30,delivered,Merchant,Amazon.in,Standard,Socks,3XL,shipped,1,₹,377.0,KOLKATA,west bengal,700078.0,IN,False,Easy Ship,,,"0994 Joan Center
+West Samanthafurt, CO 4463b",Antonio Lopez,(618)370-6579
+86,403-3763475-2237125,2022-04-30,shipped,Amazon,Amazon.in,Expedited,NONE,M,SHIPPED,1,₹,744.0,DHARMAPURI,TAMIL NADU,636705.0,in,False,,,,0o3 Ramsey Vall,TVty0dOTI8pCvY6B,(863)573-6589x205
+87,405-1492294-0323520,2022-04-30,SHIPPED,Amazon,Amazon.in,Expedited,Blazzer,XL,shipped,1,dollar,744,DEHRADUN,UTTARAKHAND,248005.0,IN,False,,,,"8440 Acevedo Center
+SouTh Patriciahaven, GA 51791",Gary Martin,VX7CLLkSyGo8R1U0BJnyl
+88,403-1162895-2484367,30-04-2022,Shipped - Delivered to Buyer,Mer,Amazon.in,Standard,Blazzer,XXL,SHIPPED,1,Rs,859xiej,JAIPUR,RAJASTHAN,303905.0,I^N,False,Easy Ship,,,"4307 Faulkner Radial
+West Nathanielshire, KSs49355",Sherri Davis,827-864-9268
+89,171-6833843-5473114,30-04-2022,Shi%pped,Amazon,Amazon.in,Expedited,Shirt,s,SHIPPED,1,INR,487,VADODARA,Gujarat,390019.0,IN,False,,,,"171 adams port apt. 367
+stokesmouth, ga 15335",Thomas Chambers,001-917-583-034
+90,403-1477057-8253913,04/30/2022,Shipped,Amazon,Amazon.in,Expedited,Blazzer,3XL,shipped,1,INR,825,CHAVAKKAD,KERALA,680506.0,IN,False,,,,"15033 James Terrace Suite 257
+Kellyfort, CA 75931",ROBERTA FITZGERALD,(784)956-7748x614
+91,408-2114413-6089906,2022-04-30,shipped,Amazon,Amazon.in,--,T-shi,M,shipped,1,€,aL2,PATNA,BIHAR,800026.0,p2,False,,,,"730 Mitchell Center Suite 90m
+Moniqueland, NM 38810",Steven Ryan,728.339.7818
+92,405-1879750-2639521,04/30/2022,Delivered,Merchant,None,Standard,Shirt, 3XL   ,SHIPPED,1,INR,725.0,CHENNAI,TAMIL NADU,600028.0,IN,False,Easy Ship,,,"08326 Chapman Spring
+Reyeshaven, CT 37418",   john martinez   ,001-717-688-8529x49375
+93,406-5727754-5302723,04/30/2022,shipped,Amazon,1OPFyZkNE,Expedited,T-shirt,M,shipped,1,€,696,VADODARA,Gujarat,390018.0,IN,False,,,,"88334 HoRton Mount Apt. 476
+Theresabergh, CT 47783",Gregory Walker,+1-786-827-9858x4558
+94,405-0901744-8270705,04/30/2022,SHIPPED,Amazon,Amazon.in,Expedited,Shirt,L,SH,1,Euro,499,VADODARA,Gujarat,390003.0,IN,False,,,,sneQsCnT5ShmfqK8r477hBGUejQn0LI,rammy Newton,(739)658-8045x2156
+95,405-9112089-3379)536,30-04-2022,cancelled,Ama,Amazon.in,expedited,Shirt,L,   cancelled   ,0,,nan,nsQW,MAHARASHTRA,411046.0,IN,False,,,,60601 Mer,XZWjlGkXy2N2,6687319423
+96,408-6357132-2310703,30-04-2022,SHIPPED,Amazon,Amazon.in,Expedited,T-shirt,L,SHIPPED,1, $   ,696.0,jammu,JAMMU & KASHMIR,180011.0,IN,False,,,,"703 Caleb Trail Apt.^ 420
+Anthonytown, WA 79280",William Wilson,+1-663-729-1956x5801
+97,406-5334922-9670748,2022-04-30,shipped,Amazon,Amazon.in,Exped,Shirt,3XL,Shipped,1,euro,406,bangalore,KARNATAKA,560026.0,IN,False,,,,"95735 cruz station
+east williamstad, tx 84822",Ashlee Wright,2822603853
+98,402-8519791-3706738,04/30/2022,Shipped,Amazon,Amazon.in,Expedited,--,S,SHIPPED,1,dollar,852,NEW DELHI,DELHI,110036.0,IN,False,,,,"USNS Howard
+FPO AA 20g20",Kathryn Morales,(781)525-6612x27237
+99,408-1830318-0357940,30-04-2022,shipped,Amazon,Amazon.in,#Expedited,Shirt,XXL,shipped,1,Euro,399.0,NARNAUND,HARYANA,125039.0,IN,False,,,,"8517 Mays Shores
+New Mi",Heather Tqomas,353.367.4928
+100,406-5103760-7326749,04/30/2022,shipped,Amazon,Amazon.in,Expedited,Shirt,X!XL,SHIPPED,1,DOLLAR,432.0,Ahmedabad,Gujarat,380051.0,#IN,False,,,," 62403 west overpass apt. 405
+north tanya,zpw 85911 ",BROOKE JACKSON, 266-884-9782x6730  
+101,402-7841951-1872363,04/30/2022,Cancelled,None,Amazon.in,  Expedited   ,y2XsMsZ,S,cancelled,NULL,€,nan,NEW DELHI,DELHI,NULL,IN,False,,,,"695 Thompson Land Suite 813
+Daviessorough, VA 01503",JANICE GRANT,964-293-3882x65866
+102,408-7698765-2294756,2022-04-30,Delivered,Merchant,Amazon.in,Standard,T-shirt,XXLqvi,Shipped,1,,  1338  ,AMBARNATH,PMkGysa1mxY,421502.0,IN,False,Easy Ship,,,"24880 Maldonado Camp
+Kelseyview, UT 54835",,   +1-367-226-7980x0256  
+103,404-1856281-9996319,30-04-2022,Shipped - Delivered to Buyer,Merchant,Am)azon.in,Standard,Blazzer,S,shipped,1,w,472.0,GWALIOR,MADHYA PRADESH,474005.0,I^N,False,Easy Ship,,,"61867 Fox Lodge
+Jjhnhaven, NY 24192",Phillip Chen,340-728-0981x1605
+104,406-5406738-7113145,04/30/2022,*shipped,Amazon,Amazon.in,Expedited,T-shzrt,L,shipped,1,Rs,788sxmx,NEW DELHI,DELHI,110078.0,IN,False,,,,"29389 White Ridge
+Rodriguezville, NE 18280",Christopher Roberts,001-440-962-1611
+105,405-5257740-5301158,30-04-2022,Delivered,Merchant,Amazon.in,Sta,T-shirt,Ve,8CTlHiU,1,Rs,832.0,ROHTAK,HARYANA,124001.0,IN,False,Easy Ship,,,"  45585 Garcia Fall
+East Phillipchester, TX 38659  ",Crystal Miller,001-254-724-7074x490
+106,405-5257740-5301158,2022-04-30,delivered,Merchant,Amazon.in,Standard,Shirt,XL,shipped,1,   R%s ,399,ROHTAK,HARYANA,124001.0,IN,False,Easy Ship,,,"1383 Burns Purts Apt. 514
+South Tamara, DE 80552",Jennif,512-888-7487
+107,405-2072502-4089911,30-04-2022,shi@pped,Amzzon,None,Expedited,T-shirt,XL,Shipped,1,Euro,599,ROHTAK,HARYANA,None,IN,False,,,,"4271 DALE WALL
+PORT ELIZABETH, MP 86472",Melinda Coleman,528-263-3988
+108,405-0882561-5952340,None,SHIPPED,Amazon,Amazon.in,Expedited,T-shirt,M,shipped,1,$,692.0,Kolkata,WEST BENGAL,700156.0,IN,False,,,,"6658 JULIE PASS
+DAVIDFURT, RI 42698",FAITH BROWN,695-236-3259x043
+109,403-7266170-1163500,NONE,delivered,Merchant,AMAZON.IN,Standard,Trousers,M,SHIPPED,1,Euro,518,MUMBAI,MAHARASHTRA,400076.0,IN,False,Easy Ship,,,"92247 George Highway
+Thompsonville, PR 50844",Lynn Hodge MD,(699)323-1144
+110,405-8114272-1687512,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,T-shirt,L,  Shipped ,1,euro,788.0,NEW DELHI,DELHI,110034.0,IN,False,,,,"203 RUIZ POINT
+MARTINEZBURY, IA 55421",Chelsey Jones,+1-796-547-5167x6217
+111,171-6138639-1478731, 2022-04-30 ,shipped,Amazon, Amazon.in ,Expedited,Shirt,M,SHIPPED,1,dollar,318,hyde,TELANGANA,500054.0, IN   ,False,,,,"725 Miller Vista
+East Jeffrey, IN 31966",Robert Jordan,6937685898
+112,405-4059216-4541150,30-04-2022,SHIPPED,Amazo,Amazon.in,Expedited,T-shirt,XS,shipped,NULL,9h3DY1,597,HYDERABAD,TELANGANA,500072.0,IN,False,,,,"72555 Heath Place
+South Donald, FM 28939",Erin$ Sanchez,534.519.8525x321
+113,405-1152015-7333945,2022-04-30,shipped,Amazon,Amazon.in,Expedited,T-shirt,S,Shipped,1,,888.0,PATNA,BIHAR,800002.0,IN,None,,,,"73010 Tucker Radial Apt. 241
+Salinaslown, IL 72037",Kristina Aguilar,+1-436-765-1274x35826
+114,406-0177436-6731556,2022-04-30,Shipped,Amazon,Am*azon.in,y8yCLdatK,Shirt,S,SH!IPPED,1,rupees,406,RAMAGUNDAM,TELANGANA,505211.0,IN,False,,,,"77857 Robbins Isle
+Johnborough, DE 52757",Chad Rubio,001-391-445-6130
+115,406-0715107-8168308,--,SHIPPED,Aeazon,Amazon.in,Expedited,T-shirt,M,   shipped ,1,EURO,1186.0,PITHORAGARH,UTTARAKHAND,262501.0,IN,False,,,,"879 Petrick Mountain
+Lake Erinville, MO 80106",Timothy Hahn,   756-808-6921x86211   
+116,403-0104882-7373900,2022-04-30,cancelled,amazon,Amazon.in,Expedited,Blazzer,XXL,Unshipped,1,euro,791.0,HIMMATNAGAR,GUJARAT,383001.0,IN,False,,,,"480 Amanda Harbors
+New Barbaraside, PR 74483",Stephanie Zuniga,+1-581-312-2399x4519
+117,403-0104882-7373900,30-04-2022,cancelled,Amazon,Amazon.in,Expedited, Blazzer   , XL   ,Unshipped,1,Dollar,807,HIMMATNAGAR,Gujarat,383001.0,IN,False,,,,"0167 Juarez Hill
+Kyleshire, MN 82255",ncs6FlVbTJmaD,(411)660-3246x1276
+118,403-0104882-7373900,30-04-2022,Cancelled,Amazon,Amazon.in,Expedited,Blazzer,XXL,Unshipped,1,euro,807,   HIMMATNAGAR  ,Gujarat,383001.0,IN,False,,,,"3615 Chad Neck tpt. 842
+Hendricksborough, WI 17876",Nicolas G)arner,794.357.
+119,  405-3002282-6797102   ,30-04-2022,SHIPPED,Amazon,Amazon.in,Expe$dited,Shirt,S,Shipped,1,rupees,311,KOLKATA,WEST BENGAL,700057.0,IN,False,,,,"988 Rowe Mills
+Michelletown, MN 88913",Sally Ewqng,001-298-94
+120,407-8466904-3461908,30-04-2022,shipped,Amazon,Amazon.in,Expedited,Trousers,XL,SHIPPED,1,$,387,MUMBAI,MAHARASHTRA,400101.0,IN,False,,,,"920 matthew isle
+south ricky, il 68775",Christine Armstrong,576.751.0802x744
+121,171-3305587-5364338,30-04-2022,shipped,Amazon,Amazon.in,Expedited,Shirt,S,shipped,1,euro,348.0,HYDERABAD,TELANGANA,500053.0,IN,False,,,,"67851 Benjamin Square
+Kristiberg, FM 74726",Kathleen Payne,8887714678
+122,406-8961316-8137943,30-04-2022,delivered,Merchant,   Am,Standard,T-, S  ,Shipped,1,EURO,597,"GUWAHATI, KAMRUP (M)",ASSAM,781014.0,IN,False,Easy Ship,,,"5713 jennifer camp suite 746
+south morganburgh, me 34329",Samantha Byrd,(944)877-0498
+123,406-8961316-8137943,2022-04,delivered,Merchant,Amazon.in,Standard,T-shirt,S,Shipped,1,dollar,549.0,"guwahati, kamrup (m)",ASSAM,781014.0,IN,False,Easy Ship,NULL,,"5337 Erin Brook
+Port Julieside, NY 13889",James Stevenson,772.332.9039x8406
+124,171-2813040-8296320,30-04-20,SHIPPED,Amazon,Amazon.in,expedited,T-shirt,3XL,shipped,1,Euro,wM9p1,KOLAR,KARNATAKA,563101.0,IN,False,,,,"PSC 5315, BOX 5422
+APO AA 68987",RobErt Mcguire,+1-509-382-6945
+125,408-9845791-1393151,30-04-2022,Shipped,Amazon,Amazon.in,Expedited,T-shirt,XS,SHIPPED,1,DOLLAR,597.0,PA,PUNJAB,147001.0,Qq,False,,,,"0964 Brown Flats
+Ruthton, MO 51526",Laurie Nelson,205-666-5344x337
+,402-4277204-2348328,30-04-2022,SHIPPED,Amazon,Amazon.in,Expedited,T-shirt,S,shipped,1,dollar,790,   REWA ,MADH,486001.0,in,False,,,,"53273 mactin street
+port mark, gu 76468",rhonda barron,  (627)464-7027x5915  
+127,  171-3049339-2085136  ,30-04-2022,  shipped  ,Amazon,Amazon.in,   Expedited ,Shirt,XXL,NONE,1,DOLLAR, )375 ,BONGAIGAON,ASSAM,783380.0,IN,False,,,,"449 Patricia Grode
+West Justinstad, DE 60992",MARVIN SANTOS,929-931-1278
+128,405-9928526-2470747,04/^30/2022,shipped,Amazon,Amazon.in,None,T-shirt,XS,shipped,1,USD,1115,HYDERABAD,TELANGANA,500087.0,IN,False,,,,"10750 Lewis Parkway Suite 055
+East Wendy, PW 54064",Madeline Watts,+1-770-710-975q
+129,405-4908072-0260360,2022-04-30,delivered,Merchant,AMAZON.IN,Standard,Shirt,3XL,ship,1,DOLLAR,579.0,BENGALURU,KARNATAKA,560055.0,IN,False,Easy Ship,,,"c873 Boyd Walks Apt. 967
+Andrewshire, CO 26967",Dale Padilla,+1-804-626-7231
+130,406-3984186-5973150,2022-04-30,shipped,A,Amazon.in,Expedited,T-shirt,XXL,SHIPPED,1,Euro,788.0,Chengalpattu,NULL,603002.0,IN,False,,,,"PSC u064, Box 5809
+APO AE 43638",Jerome Low,950-718-4047x87522
+131,171-8635309-7508346,30-04-2022,shipped,Amazon,Amazon.in,Expedited,T-shirt,M,shipped,1,NULL,597.0,PERAMBALUR,TAMIL NADU,621212.0,IN,False,,,,3MdYQQRFbcGlQKvNglaotVNpufmLKMHkuUQxX1uLzCCll38ciV9o,  KEVIN MELTON   ,(872)200-4441
+132,  171-0293372-4913973 ,2022-04-30, Cancelled ,Amazon,amazon.in,Expedited,T-shirt,YMT,  Cancelled ,0,$,nan,KOLAR,KARNATAKA,563101.0,IN,False,,,,"  55162 Michelle Landing
+Port Christina, VI 3969g   ",Michael Jones,739-593-9945
+133,402-8288606-4313118,30-04-2022,Shipped,  Amazon   ,Amazon.in,Expedited,Shirt,M,shipped,1,INR,517.0,BILASPUR,HIMACHAL PRADESH,174001.0,IN,False,,,,"3238 Salazar Neck
+JohnNystad, DC 12219",Russelp Cook, 706.634.1751x12086 
+134,402-8746990-6412346,04/30/2022,Shipped,Amazon,Amazon.in,Expedited,Shirt,XXL,shipped,1,USDhsv,442.0,CHENNAI,TAMIL NADU,600099.0,IN,False,,,,"USS Frey
+FPO AA 84452",Bailey Cooper,+1-344-258-5054x0242
+135,402-0294212-5431551,04/30/2022,shipped,Amazon,NULL,7gzTfpijk,Shirt,  3XL  ,SHIPPED,1,EU,399.0,VARANASI,UTTAR PRADESH,221010.0,IN,False,,,,"295 Jennifer Courts Apt. 407
+SanChezfurt, MP 38749",Franklin Pierce,001-534-677-0225
+136,406-1530134-2105912,04/30/2022,SHIPPED,Amazon,Amazon.in,Expedited,Shirt,XXLuc,   SHIPPED ,1,euro,518.0,BENGALURU,karnataka,560036.0,IN,False,,,,"  Unit 2122 Box 8385
+DPO AP 44508   ",Matthew Garrison,877-440-1180x0505
+137,403-5222550-p437140,30-04-2022,SHIP,Amazon,Amazon.in,Expedited,Shirt,M,SHIPPED,1,,348.0,COIMBATORE,TAMIL NADU,641035.0,in,False,,,,"503 Johnson Center
+Leeborough, NE 83921", Steven Hansen  ,308.235.2589x68715
+138,408-1482435-5202714,30-04-2022,Delivered,Merchant,Amazon.in,Standard,T-shirt,M,SHIPPED,1,USD,788,CHIRMIRI,CHHATTISGARH,497449.0,IN,False,Easy Ship,,,"760 Manuel Ville Aft. 159
+Walkerbury, MT 60179",Kenneth Johnson,734.497.2883x48180
+139,403-6442534-2769112,30-04-2022,CANCELLED,Amazon,Amazon.in,Expedited,Trousers,3XL,Cancelled,0,dol,nan,AZAMGARH,UTTAR PRADESH,276302.0,INsfpd,False,,,,"077 Torres Fort
+Robertberg, ME 14009",William Miller DDS,+1-546-741-8449x98622
+140,408-3113070-0750&756,30-04-2022,SHIPPE,Amazon,Amazon.in,Expedited,t-shirt,M,shipped,1,euro,597,KALYAN,MAHARASHTRA,421306.0,IN,False,,,,"2613 Solomon Villages Suite 929
+East Susanbury, ME 06857",Steven Jones,+1-718-437-4027x54616
+141,404-7796841-1880317,0,Shipped,Amazon,Amazon.in,Expedited,Shirt,S,NULL,1,rupees,696,NEW DELHI,DELHI,110016.0,IN,False,,,,"783 Adam Unions Apt. 026
+Port Victor, VT 21870",Richard Stewart,324-459-1477x98547
+142,405-2142542-0941949,04/30/2022,SHIPPED,Amazon,Amazon.in,Expedited,Shirt, XL ,shipped,1,dollar,363.0,HYDERABAD,TELANGANA,502032.0,I&N,False,,,,"64528 Matthew Fields
+Thomasland, WV 45256",Deborah Rhodes,6068935450
+143,405-0286717-7761132,04/30/2022,Shipped,Ama,Amazon.in,Standard, Shirt   ,XLxc,shipped,1,EURO,299.0,HYDERABAD,TELANGANA,502032.0,IN,False,,,,"6334 Levy Mountabn
+north Mary, MT 14918",Brenda Anderson,001-513-884-2915x959
+144,406-9021273-9221106,30-04-2022,shipped,Amazon,None,Expedited,Blazzer,S,shipped,1,Dollar,690.0,GUWAHATI,   ASSAM ,781026.0,IN,False,,,,"4164 Eric Mountain
+Elliottmouth, NC 99799",PATRICK TUCKER,222.615.5588x8978
+145,404-5381335-4577925,30-04-2022,SHIPP%ED,Amazon,Amazon.in,expedited,Trousers,XS,shipped,1, euro   ,   574.0  ,MYSORE,KARNATAKA,570008.0,I*N,False,,,,"42612 waters ranch
+manuelton, mh 03241",Jonathon Fry,7749030827
+146,171-0131752-2560336,2022-04-30,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,   T-shirt  ,M,shipped,1,cSD,1399,BARABANKI,UTTAR PRADESH,225001.0,INy,False,Easy Ship,,,"307 Spears Glens
+Davisside, NH 92852",kaitlyn johnston,4024864432
+147,407-4235449-1353916,04/30/2022,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,TMTXWef,S,shipped,1,$,999.0,AMILA,UTTAR PRADESH,275301.0,IN,False,Easy Ship,,,"336 Kennedy Stream
+North Terrishire, AK 31546",Sherry ReynolDs,552-739-3006
+148,171-8061614-5688327,04/30/2022,shipped,Amazon,Amazon.in,Expedited,T-shirt,XL,SHIPPED,1,euro,999,VIJAYAWADA,ANDHRA PRADESH,520010.0,IN,False,,,,"7141 JOHNSON FORT
+SOUTH CINDY, AS 40935",Christopher Rodriguez,(439)799-3976x197
+149,407-8248783-4261958,04/30/2022,shipped,Amazon,Amazon.in,Ex,Shirt,XL,SHIPPED,1,Euro, 487.0  ,RAWAN AMBUJA CEMENT PLA,CHHATTISGARH,493331.0,I*N,False,,,,"Unit 8561 Box 9920
+DPO AP 61997",natalie brady,NULL
+150,404-6513062-3876305,--,Delivered,Merchant,Amazon.in,Standard,Shirt,3XL,shipped,1,,376,TIRUCHIRAPPALLI,TAMIL NADU,620018.0,IN,False,Easy Ship,,,"64714 MartpneZ Station Apt. 455
+Lake Kristenport, OK 85606",Eric Thompson,481.237.1181x50975
+151,406-7779874-9136347,04/30/2022,SHIPPED,Amazon,Amazon.i,NULL,T-shirt,L,SHIPPED,1,Dollar,1115,HERBERTPUR,UTTARAKHAND,248142.0,INjgg,False,,,,"USNS Baker
+FPO AE 58642",Mary Peterson,+1-780-793-8830x9739
+152,406-9638549-1733961,--,SHIPPED,Amazon,Amazon.in,Expedited,T-shirt,XXL,Shipped,1,Euro,517,BENGALURU,KARNATAKA,560048.0,,False,,,,"1214 Patrick Route Apt. 89c
+Nicholehaven, WV 37367",Michelle Brown,417.842.8403
+153,407-8801185-0134713,30-04-2022,SHIPPED,Amazon,Amazon.in,Expedited,T-shirt,S,Shipped,1,Rsr,1126.0,bangalore,KARNA,560001.0,IN,False,,,,"PSC 3891, Box 7183
+APO AE 83236",CRYSTAL ESTRADA,746-690-4884x3751
+154,171-3625443-6505905,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Blazzer,L,SHIPPED,1,dollar,725,KALAMASSERY,KERALA,682021.0,IN,False,,,,"PuC 2978, Box 3593
+APO AA 29861",Zachary Williams,571-633-9453
+155,402-8078642-8565124,2022-04-30,CANCELLED,Amazon,Amazon.in,Expedited,Shirt,XL,  cancelled ,0,dollar,nan,Puri-2,ODISHA,752002.0,IN,False,,,,"776 Smith RidgeS
+Christopherburgh, NE 54678",jarbara Wong,NULL
+156,VBFdvvZvrzNTfKwPOTx,04/30/2022,SHIPPED,Amazon,Amazon.in,Expedited,Blazzer,XXL,shipped,1,17mIMM,721,TIKABALI,   ODISHA  ,762010.0,IN,False,,,," 2935 Knox Trace
+North Helenview, CT 47324 ",Kelsey Wright,(836)288-3112x62662
+157,171-4312987-5366767,30-04-2022,SHIPPED,Amazon,Amazon.in,Expedited,T-shirt,NULL,Shipped,1,rupees,   666.0   ,BIHARSHARIF,BIHAR,803115.0,IN,False,,,,"0117 Mitchell Estate Apt. 873
+Corystad, OR 04489",Heather Carson,+1-703-751-5852x51366
+158,403-5189998-9343503,04/30/2022,SHIPPED,Amazon,Amazon.in,Expedited,T-shirt,L,Shipped,1,rupees, 496.0 ,M,TELANGANA,500075.0,IN,False,,,,"0475 Leblanc Route Apt. 542
+Samanthachester, IN 86668",Ethan Wilson,(500)468-7751x05250
+159,407-9863928-5979501,2022-04-30,delivered,Merchant,Amazon.in,Standard,Shirt,XL,shipped,1,USD,353,PARAVUR,KERALA,683513.0,IN,False,Easy Ship,,,"8778 Logan Knolls
+Mooreland, WV 93359",Jorge Jackson,308.339.9510x934
+160,171-4644162-9093116,2022-04-30,Deli^vered,Merchant,Amazon.in,Standard,Shirt,S,Shipped,1,INR,399,BASTI,UTTAR PRADESH,272001.0, IN   ,False,Easy Ship,,,"174 CLARK PARKS SUITE 825
+WEST JENNIFER, AZ 62750",David Gross,291-971-7830
+161,406-0974406-3179521,2022-04-30,shipped,   Amazon   ,  Amazon.in   ,Expedited,Shirt,6XL,shipped,1,,1ZO,WALAJAP,NULL,632513.0,INijd,False,,,,"6409 Krista Summit
+Weberfort, PR 69434",Carrie Ross,+1-244-247-4258x49100
+162,402-0048138-1845122,04/30/2022,SHIPPED,Amazon,amazon.in,Expedited,T-shirt,3XL,SHIPPED,1,DOLLAR,1115,Dimapur,NAGALAND,797112.0,IN,False,,,,"92916 Webster Mission Apt. 075
+Shannonburgh, NM 42790",Austin Robinson,336-955-4821x5090
+163,flXsSBfnK1GEtl1o8Rc,04/30/2022,shipped,amazon,Amazon.in,Expedited,perfume,Free,shipped,1,€,845.0,Bengaluru,KARNATAKA,560029.0,IN,False,,,,None,Scott Ortiz,(410)401-4386x30045
+164,407-0542879-1795554,2022-04-30,Delivered,Merchant,AMAZON.IN,Standard,Shirt,S,ZgDc8Uq,1,rupees,399,Mahendragarh,HARYANA,123027.0,IN,False,Easy Ship,,,"80585 Adam Lane Apt. 699
+Wilkersonshire, SD 11648",Sheena Hale,647.507.0149
+165,406-0218328-1773963,30-04-2022,CANCELLED,Amazon,Amazon.in,Expedited,--,   6XL ,CANCELLED,0,Euro,nan,WALAJAPET,TAMIL NADU,632513.0,IN,False,,,,"828 Debra Stream Apt. 990
+Tammytown, GA 64395",Steven Watts,367.656.5055x38928
+166,407-3742007-3242711, 30-04-2022   ,Ship,Amazon,Amazon.in,Expedited,Shirt,S,SHIPPED,1,rupees,517.0,HYDERABAD,TELANGANA,500086.0,IN,False,,,,"USCGC King
+FPO AE 92",Thomas Luna,  257-339-4684x0478   
+167,407-*3742007-3242711,30-04-202,Shipped,Am)azon, Amazon.in ,fIyk43cIE,Shirt,S,shipped,1,USD,517,HYDERABAD, telangana ,500086.0,IN,False,,,,"PSC 443o, Box 8435
+APO AP 13238",Elizabeth Carter,510.874.3247x830
+168,   405-3067317-3360344 ,04/30/2022,shipped,Amazon,Amazon.in,Expedited,Shirt,3XL,Shipped,1,INR,599,GREATER NOIDA,UTTAR PRADESH,201306.0,IN,False,,,,"001 Martin Lane
+Andrewmouth, ND 10253",Shannon Holden,(620)784-0757
+169,406-5648244-8317954,30-04-2022,SHIPPED,Amazon,Amazon.in,Expe,Trousers,3XL,Shipped,1,EURO,487,New Delhi,DELHI,110019.0,IN,False,,,,"70763 Bell Trace
+Sylvialand, UT 52896",Ronald Barker,001-633-233-5207
+170,171-3460653-0171519,04/30/2022,SHIPPED,Amazon,Amazon.in,  Expedited ,Trousers,XXL,Shipped,1,Euro,487.0,GURUGRAM,HARYANA,122002.0,IN,False,,,,"440 Chloe Estate
+New Davidburgh, WY 65185",Aaron Free,607.629.2282
+171,404-53,2022-04-30,Shipped,Amazon,AMAZON.IN,Expedited,T-shirt,XS,SHIPPED,1,rupees,568,BENGALURU,KARNATAK,560040.0,IN,False,,,,"975 Gregory Roads
+Markhaven, MS 49649",Shannon Soto,+1-297-596-8276x634
+172,405-2660443-4165145,04/30/2022,Shipped - Delivered to Buyer,Merchant,Amazon.i(n,Standard,Shirt,M,SHIPPED,1,USD,399.0,BENGALURU,KARNATAKA,560022.0,IN,False,Eas*y Ship,,,"40985 Ann Parkway
+Port Charleschester, AZ 78552",Cassandra Weaver,(426)941-9355
+173,402-3329522-2367566,04/30/2022,SHIPPED,Amazon,Amazon.in,Expedited,Shirt,XXL,SHIPPED,1,Dollar,   295.0 ,TmcOkG,MAHARASHTRA,400069.0,IN,False,,,,"35960 Mcknight Ports
+East Tyler, NM 99920",Tracy Reynolds,+1-848-231-9194x485
+174,406-3078054-1755513,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,   Shirt  ,3XL,shipped,1,dollar,484.0,BIJNOR,   UTTAR PRADESH   ,246722.0,IN,False,,,,"8127 Jennifer Ports
+Powersville, MA 93635",Laura Williams,7693125707
+175,171-4647176-6456305,04/30/2022,shipped,Amazon,Amazon.in,Expedited,T-shirt,XXL,shipped,,rupees,626,MUMBAI,MAHARASHTRA,400078.0,IN,False,,,,"Unit 9086 Box 9795
+DPO AP 93730",Christopher Fischer,+1-314-318-2602x678
+176,408-5011528-8276347,30-04-2022,SHIPPED,Amazon,Amazon.in,Expedi)ted,T-shirt,M,shipped,1,,563.0,ALLAHABAD,UTTAR PRADESH,211001.0,IN,False,,,,"12890 David Avenue Suited596
+Lake A",Michael Dawson,001-503-217-1968x9137
+177,407-4097885-3129958,30-04-2022,delivered,hMowj5PY,Amazon.in,Standard,Trousers,L,SHIPPED,1,wl,387,NONE,MAHARASHTRA,401202.0,IN,False,Easy Ship,,,--,HolLy Hammond,337-350-0867^x52553
+178,171-1224053-5752314,30-04-2022,cancelled,Merchant,Amazon.iy,Standard,Trousers,L,On the Way,0,€,463,BENGALURU,KARNATAKA,560087.0,IN,False,Easy Ship,,,"USNS Jones
+FPO AA 61883",Jordan Flores,480-807-3729x
+179,406-2849582-6531553,2022-04-30,SHIPPED,Amazon,Amazon.in,Expedited,Trousers,L, Shipped  ,1,dollar,vY5,BIJNOR,UTTAR PRADESH,246701.0,in,False,,,,"PSC 3850, Box 9078
+APO AA 49235",--,275-456-4541
+180,NULL,2022-04-30,SHIPPED,Amazon,Amazon.in,Expedited,5sfVHl2,S,shippe^d,1,Dollar,1112.0,HYDERABAD,TELANGANA,500085.0,IN,False,,,,"8544 Elliott Ranch Apt. 488
+West Andrew, MD 64046",Sandra Levy,(582)997-8794x075
+NULL,171-6336729-6763536,04/30/2022,Cancelled,Amazon,Amazon.in,Expedited,  T-shirt ,3,Unshipped,1,DOLLAR,62,BENGALURU,KARNATAKA,560037.0,Iw,False,,,,"688 Dawn Mission
+Kevinhaven, NJ 76358",Anna Hernaqdoz,658.442.2419x5688
+182,404-3907920-5281963,   04/30/2022  ,shipped,Amazon,Amazon.in,Expedited,Shirt,XXL,Shipped,1,  Euro ,--,HYDERABAD,TELANGANA,500090.0,  IN  ,False,,,,"41141 martha radial apt. 761
+east james, al 18299",JusTin Simmons,+1-411-314-3151
+183,408-7310428-6047538,2022-04-30,shipped,Amazon,Amazon.in,Expedited,Blazzer,M,   shipped ,1,Euro,859.0,BENGAL(URU,KARNATAKA,560075.0,IN,False,,,,"24418 Gonzalez Greens
+Sarashire, AR 29219",Jeffery Vjlazquez,+1-623-370-4342x7147
+184,403-2608092-6065935,04/30/2022,SHIPPED,Amazon,yNxLaKkw5, Expediied ,T-shirt,L,SHIPPED,1,rupees,597.0,MANGALURU,KARNATAKA,575001.0,IN,False,,,,7fxoUrGdlesDyW8Dz8YE4sC3ErC1BXwOatdlsF9Cc3Q5,Phillip Martin,001-586-799-4694
+185,404-9760385-9109154,04/30/20(22,shipped,Amazon,Amazon.in,EXPEDITED,Shirt,XL,shipped,1,Etro,329,HYDERABAD,TELANGANA,500034.0,IN,False,,,,"74093 Roberts Estate Suite 936
+Pbtrickfurt, NJ 85660",kimberly higgins,+1-291-647-1566
+186,405-%0732969-3941948,NONE,zlheMzp5z,w8nGOUz5,Amazon.in,Standard,T-shirt,XL,Shipped,1,EURO,583.0,NEW TOWN,WEST BENGAL,700059.0,IN,False,Easy Ship,,,"3638 Reed Spur Apt. 295
+Rotertville, MS 04921",Katherine Fletcher,+1-732-280-0527x8570
+187,402-2720308-2560327,30-04-2022,Shipped,Ama$zon,Amazon.in,Expedited,Blazzer,L,Shipped,1,euro,665,MUMBAI,  MAHARASHTRA  ,400016.0,None,False,,,," 2332 Thomas Roads Suite 996
+Goodmanton, MH 01474 ",Steve Hayes,603.932.2475x9389
+188,402-0589123-6183541,2022-04-30,shipped,amazon,Amazon.in,Expedited,T-shirt,L,u8Cw8We,1,USD,582,MUMBAI,MAHARASHTRA,400016.0,IN,False,,,,52237 Kathe,   jeremy smith ,001-728-439-3054x3726
+189,408-3874942-9917143,30-04-2022,shipped,  Amazon   ,Amazon.in,Expedited,T-shirt,hL,Shipped,1,€,1126,SA,UTTAR PRAyESH,244302.0,IN,False,,,,"USNS Gomez
+FPO AA 36291",TaylOr Munoz,332.428.3433
+190, 402-1706149-0949104  ,zlAeHj8yVW,SHIPPED,Amazon,Amazon.in,   Expedited  ,Shirt,   6XL   ,SHIPPED,1,,534,--,MAHARASHTRA,441002.0,IN,False,,,,"8408 POWERS BRIDGE SUITE 394
+SARABURGH, NH 51340",Mary Robinson,+1-843-984-4939x465
+191,407-1672316-3245939,30-04-2022,Shipped,Amazon,Amazon.in,Expedited,SHIRT,XXL,shipped,1,$,319.0,ELAVANASURKOTTAI,TAMIL NADU,607202.0,IN,False,,,,"USNS Brown
+FPO AP 60649",Melissa Jam*es,4275884803
+192,405-1832646-7988329,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Shirt,S,Shipped,1,Dollar,368.0,SANGLI MIRAJ KUPWAD,MAHARASHTRA,416410.0,IN,False,,,,"9218 Simmons Ridges Suite 130
+Crawfordhaveb, RI 64481",Brian Hudson,6924856969
+193,408-9692204-9817146,04/30/2022,cancelled,Amazon,Amazon.in,Expedited,T-shirt,M,Unshipped,1,₹,597.0,KALYAN,MAHARASHTRA,421306.0,IN,False,,,,"USS Keith
+FPO AE u9404",Anita Wallace,--
+194,   402-9339129-6219537   ,2022-04-30,Cancelled,Amazon,jbDxTs6Yy,Expedited,T-shirt,XXL,Unshipped,1,Euro,654,MYSURU, KARNATAKA ,570016.0,in,False,,,,"755 Ashley Mountains
+East Brian, IN 10067",Crystal Leblanc DVM,(459)792-2684
+195,405-3036350-8089120,30-04-2022,SHIPPED,Amazon,Amazon.in,Expediped,Shirt,M,Shipped,1,rupees,795,ANKLESHWR,Gujarat,393002.0,IN,False,,,,"0374 Dupcan Forest Apt. 877
+Brooksborough, ND 73376",christopher erickson,001-341-841-3662x2499
+196,404-6680046-0839536,04/30/2022,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,   Blazzer   ,M,shipped,1,euro,744.0,CHENNAI,TAMIL NADU,600117.0,IN,False,Easy Ship,,,"USNS Salinas
+FPO AP 52211",Brandon Lewis,887-660-5438
+197,406-2966654-4672325,2022-04-30,Shipped,  Amazon  ,Ama)zon.in,Expedited,Sgirt,4XL, shippe(d ,1,DOLLAR,69%2.0,Greater Noida West,UT,201009.0,INulzj,False,,,,"4613 Juan Light
+South John, PW 61489",Jonathan Lambert,305-328-8777x62568
+198,403-4845285-4565113,2022-04-30,Shipped,Amazon,Amazon.in,Expedited,Tro,Mcfxj,shipped,1,EUR,563,None,JAMMU & KASHMIR,180007.0,IN,False,,,,"63835 Cooper Extensions
+Markfort, NJ 60286",Harold Gray,847-563-2832
+199,171-4496851-5319548,04/30/2022,Shipped, Amazon  ,Amazon.in,Expedited,Trousers, M ,shipped,None,,545.0,BENGALURU,KARNATAKA,560085.0,IN,False,,,,"8686 Wood Ford
+Kevinport, HI a0963",vmily Black,+1-630-442-3315x298
+200,408-3416118-1167564,04/30/2,shipped,Amazon,Amazon.in,Expedited,T-shirt,L,SHIPPED,1,$,999,ITANAGAR,ARUNACHAL PRADESH,791113.0,IN,False,,,,"778 BRENT MOUNTAIN APT. 654
+EAST LEEBERG, LA 96089",Alexander Robinson,362.549.8685
+6,408-5748499-6859555,30-04-2022,Shipped,Amazon,Amazon.in,Expedited,t-shirt,L,shipped,1,€,653.0,CHANDIGARH,CHANDIGARH,160036.0,IN,False,,,,"64045 MARY UNDERPASS
+PORT DAVIDLAND, AS 14452",michele ramirez,(665)407-7843
+7,406-7807733-3785945,30-04-)2022,Shipped - Delivered to Buyer,Merchant,Amazon.in,Standard,Shirt,S,SHIPPED,1,USD,399,HYDERABAD,TELANGANA,500032.0,IN,False,Easy Ship,,,"71656 White Trail
+Lesterbury, DE 99358",Deborah Jones,949.527.&1803x0390
+8,407-5443024-5233168,04/30/2022,cancelled,None,Amazon.in,Expedited,T-shirt,3XL,cancelled,0,rupees,nan,HYDERABAD,TELANGANA,500008.0,IN,False,,,,"4870 zrujillo Brxok Suite 845
+Yatesstadr Kc 77821",Christopher Henderson,342-884-3224
+9,402-4393761-0311520,30-04-2022,shipped,Amazon,, Expedited   ,rDef8,XXL,shipped,1,€,363,Chennai,TAMIL NADU,600041.0,IN,False,,,,"PSC 80f8, Box 3039
+APO AE 77509",Jacqueline Harris,597-651-9392x37391
+10,407-5633625-6970741,--,SHIPPED,Am^azon,Ama)zon.in,Expedited,Shirt,S,SHIPPED,1,INR,685.0,CHENNAI,TAMIL NADU,600073.0, IN ,False,,,,"5689 mayo forges suite 519
+harrellchester, id 94908",NULL,001-820-446-3584x9720
+11,171-4638481-6326716,2022-04-30,shipped, Amazon  ,Amazon.in,Expedited,Shirt,XS,SHIPPED,1,&dollar,364.0,38vDZ,UTTAR PRADESH,201303.0,IN,False,,,,--,Judith Henry,511-744-6023
+12,405-5513694-8146768,30-04-2022,Delivered,s0FklwrP,Amazon.in,Standard,Shirt,XS,Shipped,1,NONE,399.0,Amracati.,MAHARASHTRA,444606.0,IN,False,Easy Ship,,,"94147 Lopea Circle
+North Deanna, NJ 47775",Paul Ramos,805-621-7658x3419$7
+13,408-7955685-3083534,2022-04-30,   shipped  ,Amazon,AMAZON.IN,Expedited,T-shirt,XS,Shipped,1,₹,657.0,MUMBAI,MAHARASHTRA,400053.0,IN,False,,,,"42862 Raymond TeRrace Ast. 795
+Jamesbury, DE 96033",paul frank,(654)394-9626x8154
